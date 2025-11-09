@@ -1,5 +1,5 @@
-#ifndef MNIST_LOADER_H
-#define MNIST_LOADER_H
+#ifndef LOADER_H
+#define LOADER_H
 
 // Global arrays
 extern float train_data[NUM_TRAIN][SIZE];
